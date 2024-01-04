@@ -3,6 +3,10 @@
   "type": "module",
   "description": "Node.js server configured with type safety, lint, formatting, and testing.",
   "author": "Tim Kent <timkentdev@gmail.com>",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "start": "node dist/index.js"
+  },
   "devDependencies": {
     "@types/express": "^4.17.21",
     "typescript": "^5.3.3"
