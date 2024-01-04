@@ -1,0 +1,6 @@
+{
+  "name": "node-ts-server",
+  "type": "module",
+  "description": "Node.js server configured with type safety, lint, formatting, and testing.",
+  "author": "Tim Kent <timkentdev@gmail.com>"
+}
