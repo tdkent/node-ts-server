@@ -6,7 +6,9 @@
 	"scripts": {
 		"build": "tsc -p tsconfig.build.json",
 		"start": "node dist/index.js",
-		"format": "prettier --write --list-different ."
+		"format": "prettier --write --list-different .",
+		"lint": "eslint . --max-warnings 0",
+		"lint:fix": "npm run lint -- --fix"
 	},
 	"devDependencies": {
 		"@types/express": "^4.17.21",
