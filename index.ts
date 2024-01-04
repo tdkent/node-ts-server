@@ -1,5 +1,5 @@
-import { app } from "./src/app.js";
+import { app } from './src/app.js'
 
-var PORT = 4000;
+var PORT = 4000
 
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`))
