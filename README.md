@@ -4,7 +4,7 @@
 
 Node.js server configured with type safety, lint, formatting, and testing. The project consists of an Express server written in TypeScript and configured with ESLint, Prettier, and Jest.
 
-This repo is a resource for my article Node.js Server Setup with Type Safety and Testing.
+This repo is a resource for my article [Node.js Server Setup with Type Safety and Testing](https://www.linkedin.com/pulse/nodejs-server-setup-type-safety-testing-tim-kent-xj9dc)
 
 ## Clone & Run
 
